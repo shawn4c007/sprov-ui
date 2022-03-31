@@ -50,7 +50,7 @@
 > 请务必使用 root 用户运行！
 
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/seedc/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/shawn4c007/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 # 常见问题
